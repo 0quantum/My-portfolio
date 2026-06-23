@@ -1,4 +1,5 @@
 "use client";
+import * as THREE from "three";
 import { useEffect, useRef, useState } from "react";
 import { Color, Scene, Fog, PerspectiveCamera, Vector3 } from "three";
 import ThreeGlobe from "three-globe";
@@ -64,7 +65,7 @@ let numbersOfRings = [0];
 
 export function Globe({ globeConfig, data }: WorldProps) {
   const globeRef = useRef<ThreeGlobe | null>(null);
-  const groupRef = useRef();
+const groupRef = useRef<THREE.Group | null>(null);
   const [isInitialized, setIsInitialized] = useState(false);
 
   const defaultProps = {
