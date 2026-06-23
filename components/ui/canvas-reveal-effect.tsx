@@ -211,7 +211,7 @@ const ShaderMaterial = ({
   });
 
   const getUniforms = () => {
-    const preparedUniforms: Record<string, unknown> = {};
+    const preparedUniforms: any = {};
 
     for (const uniformName in uniforms) {
       const uniform: any = uniforms[uniformName];
