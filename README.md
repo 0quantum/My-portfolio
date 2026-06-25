@@ -14,8 +14,10 @@ This project was originally developed by following a tutorial from JavaScript Ma
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./public/preview.png)
-![Portfolio Screenshot](./public/preview2.png)
+<p align="center">
+  <img src="./public/preview.png" width="700" />
+  <img src="./public/preview2.png" width="700" />
+</p>
 
 ## 🎯 Overview
 
@@ -50,6 +52,7 @@ This project was built to demonstrate:
 - 🎨 Tailwind CSS
 - 🧩 Aceternity UI
 - 🚀 Vercel
+- ❌ Sentry
 
 ## 📌 Features
 - Fully responsive design (mobile-first)
@@ -58,6 +61,7 @@ This project was built to demonstrate:
 - About / skills section
 - Contact section
 - Clean, minimal, and developer-focused layout
+
 ## 💡 Note
 
 This project is based on a tutorial by JavaScript Mastery, but has been heavily modified, improved, and personalized.
@@ -73,6 +77,10 @@ The goal was to go beyond copying and instead turn it into a real portfolio that
 ## 🚀 Result
 
 A polished, modern portfolio that demonstrates not only frontend development skills, but also the ability to refine, redesign, and elevate existing projects into something unique and production-ready.
+
+## 🚀 Impact
+
+This project helped me transition from tutorial-based learning to building and customizing real-world frontend applications with a focus on UI/UX and scalability.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0quantum&show_icons=true&theme=tokyonight" />
