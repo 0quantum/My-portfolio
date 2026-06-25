@@ -15,6 +15,7 @@ This project was originally developed by following a tutorial from JavaScript Ma
 ## 📸 Preview
 
 ![Portfolio Screenshot](./public/preview.png)
+![Portfolio Screenshot](./public/preview2.png)
 
 ## 🎯 Overview
 
