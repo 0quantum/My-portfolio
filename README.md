@@ -1,41 +1,83 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=My%20Portfolio&fontSize=40&fontColor=ffffff" />
+</p>
 
-## Getting Started
+# 🚀 Personal Portfolio Website
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC)
 
-First, run the development server:
+🔗 **Live Demo:** [Visit Website](https://my-portfolio-beta-inky-11.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A modern, responsive personal portfolio built with Next.js, TypeScript, Tailwind CSS, and Aceternity UI.
+This project was originally developed by following a tutorial from JavaScript Mastery, but has been significantly refactored, customized, and improved to reflect my own style and development approach.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📸 Preview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Portfolio Screenshot](./public/preview.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 Overview
 
-## Learn More
+This portfolio serves as a personal developer website to showcase my projects, skills, and experience in a clean and interactive way.
 
-To learn more about Next.js, take a look at the following resources:
+While the foundation was based on a tutorial, the final version is heavily modified with custom design decisions, bug fixes, and additional improvements to make it feel like a real production-ready portfolio rather than a tutorial project.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ⚙️ Key Improvements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Compared to the original tutorial project, this version includes:
 
-## Deploy on Vercel
+- 🛠️ Fixed multiple bugs and inconsistencies from the original implementation
+- 🧹 Refactored code structure for better scalability and maintainability
+- 🎨 Fully customized UI and layout to match my personal style
+- ✨ Improved responsiveness and user experience across devices
+- ⚡ Enhanced component structure and readability
+- 🧩 Added personal adjustments and design refinements beyond the tutorial scope
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🧠 Purpose
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# My-portfolio
-This is my portfolio-website
->>>>>>> 0685f1586e30840c151815ec3a2c92014454586e
+This project was built to demonstrate:
+
+- Strong understanding of modern frontend development
+- Ability to work with Next.js and TypeScript in real-world projects
+- UI/UX design sense and attention to detail
+- Capability to improve and extend existing codebases
+- Portfolio-level production thinking beyond tutorial work
+  
+## 🛠️ Tech Stack
+- ⚡ Next.js
+- 💙 TypeScript
+- 🎨 Tailwind CSS
+- 🧩 Aceternity UI
+- 🚀 Vercel
+
+## 📌 Features
+- Fully responsive design (mobile-first)
+- Smooth animations and modern UI interactions
+- Project showcase section
+- About / skills section
+- Contact section
+- Clean, minimal, and developer-focused layout
+## 💡 Note
+
+This project is based on a tutorial by JavaScript Mastery, but has been heavily modified, improved, and personalized.
+The goal was to go beyond copying and instead turn it into a real portfolio that represents my own identity as a developer.
+
+## 🧠 What I Learned
+
+- Building scalable React/Next.js architecture
+- Improving existing codebases beyond tutorials
+- UI/UX thinking in real projects
+- Working with component-driven design systems
+
+## 🚀 Result
+
+A polished, modern portfolio that demonstrates not only frontend development skills, but also the ability to refine, redesign, and elevate existing projects into something unique and production-ready.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0quantum&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0quantum&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  Built with ❤️ using Next.js
+</p>
